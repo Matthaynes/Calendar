@@ -14,5 +14,11 @@ h1{
 .col{
   height: 6em;
   color:  yellow;
+  min-height: 4em
+  min-width: 2em;
  
 }
+#font{
+  overflow: hidden;
+}
+
